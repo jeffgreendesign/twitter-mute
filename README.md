@@ -11,6 +11,7 @@ Not sure if any of these work. They've been sourced from various tweets and post
 
 ```
 ActivityTweet
+generic_activity_Highlights
 RankedOrganicTweet
 suggest_activity
 suggest_activity_tweet
